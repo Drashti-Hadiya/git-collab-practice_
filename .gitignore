@@ -11,3 +11,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+.vs code/
+*.log
+__pycache__/
