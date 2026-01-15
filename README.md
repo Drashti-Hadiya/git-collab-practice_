@@ -7,6 +7,8 @@ This repository is created to practice:
 - Branching and merging
 - Issues and collaboration
 
+This project demonstrates git and github basics using VS code.
+
 ## Features
 - Meaningful commits
 - Feature branches
